@@ -71,7 +71,3 @@ button_index.grid(row=4, column=0)
 
 
 root.mainloop()
-
-#add button decimal
-# Decimal= Button(gui, text='.', fg='black', bg='red',
-#                     command=lambda: press('.'), height=1, width=7)
